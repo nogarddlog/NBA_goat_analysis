@@ -5,6 +5,10 @@
 
 ---
 
+Credit to [Analyst Builder](https://www.analystbuilder.com/projects/nba-player-stats-whos-the-real-mvp-mvptf) for the datasets and the directions for the analysis.
+
+---
+
 ## Project Overview
 
 Fans are always debating who is the GOAT. This project brings data into
